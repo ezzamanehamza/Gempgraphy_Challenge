@@ -1,3 +1,13 @@
+# fetch data from the Github API
+
+list the most starred Github repos that were created in the last 30 days by fetching the sorted JSON data directly from the Github API 
+
+## used technologies
+    reactjs.
+    material-ui.
+    styled-compenents
+    react-spinners
+    snippers
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
